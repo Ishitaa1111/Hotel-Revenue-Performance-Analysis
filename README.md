@@ -88,7 +88,8 @@ The dataset contains **transactional booking records** for the hotel. Key data p
 
 
 ###  7. Dashboard / Output Screenshots
-*(Add Power BI dashboard screenshots here if available)*  
+*![Alt Text](images/Hotel RR Dashboard Screenshot.png)
+*  
 
 
 
