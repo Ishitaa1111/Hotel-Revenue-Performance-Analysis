@@ -63,23 +63,23 @@ The dataset contains **transactional booking records** for the hotel. Key data p
 ###  6. Key Insights / Results
 
 #### **Overall Performance (July - Nov 2024)**
-- **Total Revenue:** **$57M**  
+- **Total Revenue:** **₹57M**  
 - **Booking Volume:** **4,426 total bookings**, **7,000 room nights**  
-- **Average Transaction Value:** **$12,980 per booking**  
+- **Average Transaction Value:** **₹12,980 per booking**  
 - **Customer Satisfaction:** Average rating **3.73**  
 
 #### **Performance Against Targets**
-- **Revenue Target:** Achieved **95%** of **$60M**, shortfall of **$3M**  
+- **Revenue Target:** Achieved **95%** of **₹60M**, shortfall of **₹3M**  
 - **Booking Target:** Met **88.5%** of **5,000 bookings**, shortfall of **574 bookings**  
 
 #### **Revenue & Booking Channel Analysis**
 - **Diversified Revenue Streams:** Balanced booking sources → low risk of dependency  
-  - **Walk-in:** **26.47%** of revenue ($15.2M)  
-  - **Travel Agent:** **25.13%** ($14.4M)  
-  - **Website:** **24.65%** ($13.6M)  
-  - **Corporate:** **23.74%** ($14.1M)  
-- **Most Valuable Channel:** **Walk-in customers** → highest total revenue (**$15.2M**), highest bookings (**1,128**), longest average stay (**2.55 nights**)  
-- **Opportunity Channel:** **Website channel** → lowest revenue per booking (**$12,435**), shortest average stay (**2.45 nights**)  
+  - **Walk-in:** **26.47%** of revenue (₹15.2M)  
+  - **Travel Agent:** **25.13%** (₹14.4M)  
+  - **Website:** **24.65%** (₹13.6M)  
+  - **Corporate:** **23.74%** (₹14.1M)  
+- **Most Valuable Channel:** **Walk-in customers** → highest total revenue (**₹15.2M**), highest bookings (**1,128**), longest average stay (**2.55 nights**)  
+- **Opportunity Channel:** **Website channel** → lowest revenue per booking (**₹12,435**), shortest average stay (**2.45 nights**)  
 
 #### **Product & Customer Behavior Insights**
 - **Top-Performing Room Type:** **Suite-style rooms** → main revenue driver  
