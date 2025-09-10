@@ -88,8 +88,9 @@ The dataset contains **transactional booking records** for the hotel. Key data p
 
 
 ###  7. Dashboard / Output Screenshots
-*![Alt Text](images/Hotel RR Dashboard Screenshot.png)
-*  
+
+![Hotel RR Dashboard Screenshot](images/Hotel_RR_Dashboard_Screenshot.png)
+
 
 
 
